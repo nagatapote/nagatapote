@@ -32,23 +32,3 @@
 ```
 
     
-
----
-
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/nagatapote/nagatapote/main/profile-summary-card-output/onedark/3-stats.svg)
-```
-
-    
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/nagatapote/nagatapote/main/profile-summary-card-output/onedark/4-productive-time.svg)
-```
-
-    

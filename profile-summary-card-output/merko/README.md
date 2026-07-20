@@ -32,23 +32,3 @@
 ```
 
     
-
----
-
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/nagatapote/nagatapote/main/profile-summary-card-output/merko/3-stats.svg)
-```
-
-    
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/nagatapote/nagatapote/main/profile-summary-card-output/merko/4-productive-time.svg)
-```
-
-    
