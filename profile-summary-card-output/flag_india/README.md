@@ -15,20 +15,40 @@
 ### Each card usage
 ---
 
-![](./0-profile-details.svg)
+![](./1-repos-per-language.svg)
 
 ```
-![](https://raw.githubusercontent.com/nagatapote/nagatapote/main/profile-summary-card-output/flag_india/0-profile-details.svg)
+![](https://raw.githubusercontent.com/nagatapote/nagatapote/main/profile-summary-card-output/flag_india/1-repos-per-language.svg)
 ```
 
     
 
 ---
 
-![](./1-repos-per-language.svg)
+![](./2-most-commit-language.svg)
 
 ```
-![](https://raw.githubusercontent.com/nagatapote/nagatapote/main/profile-summary-card-output/flag_india/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/nagatapote/nagatapote/main/profile-summary-card-output/flag_india/2-most-commit-language.svg)
+```
+
+    
+
+---
+
+![](./3-stats.svg)
+
+```
+![](https://raw.githubusercontent.com/nagatapote/nagatapote/main/profile-summary-card-output/flag_india/3-stats.svg)
+```
+
+    
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/nagatapote/nagatapote/main/profile-summary-card-output/flag_india/4-productive-time.svg)
 ```
 
     
